@@ -1,0 +1,13 @@
+.log-in{
+
+    width: 90vw;
+    margin:8px auto 0 auto;
+}
+.heading-text {
+    font-size: 3em;
+    font-weight: bold;
+}
+.log-in h1{
+    text-align:center;
+    padding-bottom: 40px;
+}

@@ -1,0 +1,13 @@
+.comment-card{
+
+    height:30rem;
+}
+
+
+.comment-card img{
+    height: 30px;
+    width: 30px;
+}
+.comment-card p{
+    text-align: center;
+}

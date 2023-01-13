@@ -1,0 +1,38 @@
+.post-card{
+    height: 30rem;
+}
+
+.post-card img{
+    height: 30px;
+    width: 30px;
+}
+
+
+.comment-icon{
+display: flex;
+justify-content: flex-end;
+
+
+}
+.comment-icon img{
+    padding: 4px;
+}
+
+.add-comment{
+
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  bottom: 0;
+  float: right;
+  margin: 15px;
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+

@@ -1,0 +1,13 @@
+.add-comment-container{
+    width: 90vw;
+    margin:8px auto 0 auto;
+}
+.heading-text {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+.add-comment-container-title{
+    text-align:center;
+    padding-bottom: 40px;
+}

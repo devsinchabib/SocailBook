@@ -1,0 +1,20 @@
+.post-card{
+    height: 30rem;
+}
+
+
+.post-card img{
+    height: 30px;
+    width: 30px;
+}
+
+
+.comment-icon{
+display: flex;
+justify-content: flex-end;
+
+
+}
+.comment-icon img{
+    padding: 4px;
+}

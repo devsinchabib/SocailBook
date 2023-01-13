@@ -1,0 +1,14 @@
+.sign-up{
+
+    width: 90vw;
+    margin:8px auto 0 auto;
+    
+}
+.heading-text {
+    font-size: 3em;
+    font-weight: bold;
+}
+.sign-up h1{
+    text-align:center;
+    padding-bottom: 40px;
+}
